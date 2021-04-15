@@ -34,4 +34,5 @@ App Insights:
 - https://docs.microsoft.com/en-us/azure/azure-monitor/app/javascript
   
 Misc:
+- https://docs.microsoft.com/en-us/azure/azure-monitor/logs/examples
 - https://blog.atwork.at/post/Monitor-overview-of-Azure-services
