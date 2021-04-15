@@ -7,6 +7,8 @@ This repository includes various samples and information how to use Azure Monito
 Azure is huge!
 Discover services that are unsafe, costs, or debug issues. Every service is for a specific purpose. Here´s a list of services that can help to get insights from your services running in Azure or in hybrid scenarios.
 
+[![link](./images/azuremonitor.jpg)](./images/azuremonitor.jpg "Click to enlarge")
+
 - **App Insights:** is a feature of Azure Monitor to monitor a SINGLE desktop or a web app
 - **App Center:** Test apps and monitor and distribute a SINGLE app
 - **Network Watcher:** troubleshoot VPN, inspect packages and more
