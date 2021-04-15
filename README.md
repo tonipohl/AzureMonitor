@@ -31,6 +31,7 @@ App Center:
 App Insights:
 - https://docs.microsoft.com/en-us/dotnet/api/microsoft.applicationinsights.extensibility.telemetryconfiguration.createdefault?view=azure-dotnet
 - https://docs.microsoft.com/en-us/azure/azure-monitor/app/console
-
+- https://docs.microsoft.com/en-us/azure/azure-monitor/app/javascript
+  
 Misc:
 - https://blog.atwork.at/post/Monitor-overview-of-Azure-services
