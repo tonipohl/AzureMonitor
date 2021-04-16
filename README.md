@@ -27,14 +27,25 @@ Discover services that are unsafe, costs, or debug issues. Every service is for 
 
 ## Links
 
-App Center:
-- https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/wpf-winforms
+### App Insights
 
-App Insights:
 - https://docs.microsoft.com/en-us/dotnet/api/microsoft.applicationinsights.extensibility.telemetryconfiguration.createdefault?view=azure-dotnet
 - https://docs.microsoft.com/en-us/azure/azure-monitor/app/console
 - https://docs.microsoft.com/en-us/azure/azure-monitor/app/javascript
-  
-Misc:
-- https://docs.microsoft.com/en-us/azure/azure-monitor/logs/examples
-- https://blog.atwork.at/post/Monitor-overview-of-Azure-services
+- Using Azure Application Insights In PowerShell: https://www.c-sharpcorner.com/article/using-azure-application-insights-in-powershell/
+
+### Azure Monitor
+
+- Azure Monitor log query examples: https://docs.microsoft.com/en-us/azure/azure-monitor/logs/examples
+
+### App Center
+
+- App Center: https://appcenter.ms/apps
+- https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/wpf-winforms
+
+### Misc
+
+- Azure Friday, Azure Barry video: https://www.youtube.com/watch?v=Zr7LcSr6Ooo
+- When to use what Azure monitoring service: https://blog.atwork.at/post/Monitor-overview-of-Azure-services
+
+...more to come
