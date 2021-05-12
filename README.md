@@ -37,6 +37,7 @@ Discover services that are unsafe, costs, or debug issues. Every service is for 
 ### Azure Monitor
 
 - Azure Monitor log query examples: https://docs.microsoft.com/en-us/azure/azure-monitor/logs/examples
+- Check out the latest news at https://techcommunity.microsoft.com/t5/azure-monitor/azure-monitor-connections-video-mar-16-2021/m-p/2214845
 
 ### App Center
 
