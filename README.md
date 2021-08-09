@@ -43,6 +43,13 @@ Discover services that are unsafe, costs, or debug issues. Every service is for 
 
 - App Center: https://appcenter.ms/apps
 - https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/wpf-winforms
+- Security:
+    - Multi-Tenant, Hosted in the US
+    - App Center Test hosted in US+Denmark
+    - CDNs 
+    - TLS 1.2
+    - Encryption at rest (incl. Azure Storage, Azure SQL and Cosmos DB)
+    - See details at https://docs.microsoft.com/en-us/appcenter/general/app-center-security
 
 ### Misc
 
