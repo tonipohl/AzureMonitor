@@ -39,6 +39,18 @@ Discover services that are unsafe, costs, or debug issues. Every service is for 
 - Azure Monitor log query examples: https://docs.microsoft.com/en-us/azure/azure-monitor/logs/examples
 - Check out the latest news at https://techcommunity.microsoft.com/t5/azure-monitor/azure-monitor-connections-video-mar-16-2021/m-p/2214845
 
+### Network Watcher
+
+- Monitor, diagnose, view metrics, and enable or disable logs for resources in an Azure virtual network
+- https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-monitoring-overview
+- Step by step guide thru: https://docs.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-traffic-filtering-problem
+- Azure Network Watcher resources: When you *create or update a virtual network* in your subscription, Network Watcher will be enabled automatically in your Virtual Network's region. When you enable Network Watcher using the portal, the name of the Network Watcher instance is automatically set to NetworkWatcher_region_name where region_name corresponds to the Azure region where the instance is enabled. For example, a Network Watcher enabled in the West Central US region is named NetworkWatcher_westcentralus. The Network Watcher instance is automatically created in a resource group named NetworkWatcherRG. The resource group is created if it does not already exist. If you wish to customize the name of a Network Watcher instance and the resource group it's placed into, you can use PowerShell, the Azure CLI, the REST API, or ARMClient methods. See more at https://docs.microsoft.com/en-us/answers/questions/147292/azure-network-watcher-resources-not-visible-while.html
+
+### Azure Sentinel
+
+- Microsoft Azure Sentinel is a scalable, cloud-native, security information event management (SIEM) and security orchestration automated response (SOAR) solution: https://docs.microsoft.com/en-us/azure/sentinel/overview
+- Use Jupyter Notebook to hunt for security threats: https://docs.microsoft.com/en-us/azure/sentinel/notebooks
+
 ### App Center
 
 - App Center: https://appcenter.ms/apps
